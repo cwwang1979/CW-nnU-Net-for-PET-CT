@@ -13,6 +13,7 @@ Export docker image
 bash export.sh
 ```
 ## License
+This source code is released under a creative commons license, which allows for personal and research use only. For a commercial license please contact Prof. Ching-Wei Wang. You can view a license summary here:
 CC BY-NC 4.0
 https://creativecommons.org/licenses/by-nc/4.0/
 
