@@ -28,5 +28,5 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Contact
 Prof. Ching-Wei Wang  
-cweiwang@mail.ntust.edu.tw ; cwwang1979@gmail.com
+cweiwang@mail.ntust.edu.tw ; cwwang1979@gmail.com  
 National Taiwan University of Science and Technology
