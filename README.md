@@ -3,6 +3,14 @@ This docker is desighed for Automated Lesion Segmentation in Whole-Body PET/CT -
 
 The GitHub repository includes our docker image environment (Dockerfile, requirements.txt) and the code for the inference process (process.py).
 
+##  Associated paper
+Wang, C. W., Su, T. S., & Liu, K. W. (2024). Dual channel CW nnU-Net for 3D PET-CT Lesion Segmentation in 2024 autoPET III Challenge. arXiv preprint arXiv:2409.07144.
+https://arxiv.org/abs/2409.07144
+
+## Dual channel CW nnU-Net model weights
+This model weights in Google Drive: 
+https://drive.google.com/drive/folders/1P_qcEQQ5tcdzOQsOW-w4tWwuXv1WkV4X?usp=sharing
+
 ## Docker command
 Build docker image
 ```
