@@ -1,5 +1,5 @@
 # autoPET III submission docker
-This docker is desighed for Automated Lesion Segmentation in Whole-Body PET/CT - Multitracer Multicenter Generalization (autoPET III) Challenge, hosted on Grand Challenge platform.
+This docker is designed for Automated Lesion Segmentation in Whole-Body PET/CT - Multitracer Multicenter Generalization (autoPET III) Challenge, hosted on Grand Challenge platform.
 
 The GitHub repository includes our docker image environment (Dockerfile, requirements.txt) and the code for the inference process (process.py).
 
