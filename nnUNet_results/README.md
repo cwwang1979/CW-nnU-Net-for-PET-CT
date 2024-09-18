@@ -1,5 +1,5 @@
 # autoPET III Dual channel CW nnU-Net model weights
-This model weights in Google Drive: 
+This model weights were shared in Google Drive: 
 https://drive.google.com/drive/folders/1P_qcEQQ5tcdzOQsOW-w4tWwuXv1WkV4X?usp=sharing
 
 ## License
